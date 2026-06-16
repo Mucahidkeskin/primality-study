@@ -1,0 +1,103 @@
+label,bits,method,verdict,word_muls,word_div_steps,mod_muls,mod_sqrs,mod_reductions,high_label,high_value,k,seed
+carmichael,10,Trial division,COMPOSITE,0,1,0,0,1,divisions,1,20,88172645463325252
+carmichael,10,Fermat,COMPOSITE,60,94,15,45,94,rounds,6,20,88172645463325252
+carmichael,10,Solovay-Strassen,COMPOSITE,11,25,3,8,25,rounds,1,20,88172645463325252
+carmichael,10,Miller-Rabin,COMPOSITE,11,11,3,8,11,rounds,1,20,88172645463325252
+carmichael,10,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,10,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,11,Trial division,COMPOSITE,0,2,0,0,2,divisions,2,20,88172645463325252
+carmichael,11,Fermat,COMPOSITE,26,36,6,20,36,rounds,3,20,88172645463325252
+carmichael,11,Solovay-Strassen,COMPOSITE,12,25,3,9,25,rounds,1,20,88172645463325252
+carmichael,11,Miller-Rabin,COMPOSITE,12,11,3,9,11,rounds,1,20,88172645463325252
+carmichael,11,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,11,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,11,Trial division,COMPOSITE,0,3,0,0,3,divisions,3,20,88172645463325252
+carmichael,11,Fermat,COMPOSITE,14,28,4,10,28,rounds,2,20,88172645463325252
+carmichael,11,Solovay-Strassen,COMPOSITE,13,31,4,9,31,rounds,2,20,88172645463325252
+carmichael,11,Miller-Rabin,COMPOSITE,13,10,4,9,10,rounds,1,20,88172645463325252
+carmichael,11,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,11,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,12,Trial division,COMPOSITE,0,2,0,0,2,divisions,2,20,88172645463325252
+carmichael,12,Fermat,COMPOSITE,30,45,8,22,45,rounds,3,20,88172645463325252
+carmichael,12,Solovay-Strassen,COMPOSITE,28,50,8,20,50,rounds,2,20,88172645463325252
+carmichael,12,Miller-Rabin,COMPOSITE,14,11,4,10,11,rounds,1,20,88172645463325252
+carmichael,12,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,12,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,12,Trial division,COMPOSITE,0,3,0,0,3,divisions,3,20,88172645463325252
+carmichael,12,Fermat,COMPOSITE,165,256,44,121,256,rounds,12,20,88172645463325252
+carmichael,12,Solovay-Strassen,COMPOSITE,28,56,8,20,56,rounds,2,20,88172645463325252
+carmichael,12,Miller-Rabin,COMPOSITE,14,14,4,10,14,rounds,1,20,88172645463325252
+carmichael,12,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,12,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,13,Trial division,COMPOSITE,0,3,0,0,3,divisions,3,20,88172645463325252
+carmichael,13,Fermat,COMPOSITE,36,54,12,24,54,rounds,3,20,88172645463325252
+carmichael,13,Solovay-Strassen,COMPOSITE,17,26,6,11,26,rounds,1,20,88172645463325252
+carmichael,13,Miller-Rabin,COMPOSITE,17,16,6,11,16,rounds,1,20,88172645463325252
+carmichael,13,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,13,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,14,Trial division,COMPOSITE,0,3,0,0,3,divisions,3,20,88172645463325252
+carmichael,14,Fermat,COMPOSITE,100,156,35,65,156,rounds,6,20,88172645463325252
+carmichael,14,Solovay-Strassen,COMPOSITE,19,38,7,12,38,rounds,1,20,88172645463325252
+carmichael,14,Miller-Rabin,COMPOSITE,19,19,7,12,19,rounds,1,20,88172645463325252
+carmichael,14,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,14,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael,16,Trial division,COMPOSITE,0,3,0,0,3,divisions,3,20,88172645463325252
+carmichael,16,Fermat,COMPOSITE,0,10,0,0,10,rounds,1,20,88172645463325252
+carmichael,16,Solovay-Strassen,COMPOSITE,0,10,0,0,10,rounds,1,20,88172645463325252
+carmichael,16,Miller-Rabin,COMPOSITE,18,18,4,14,18,rounds,1,20,88172645463325252
+carmichael,16,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael,16,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael_bigfactors,19,Trial division,COMPOSITE,0,18,0,0,18,divisions,18,20,88172645463325252
+carmichael_bigfactors,19,Fermat,PROBABLY_PRIME,520,1116,160,360,736,rounds,20,20,88172645463325252
+carmichael_bigfactors,19,Solovay-Strassen,COMPOSITE,25,57,8,17,39,rounds,1,20,88172645463325252
+carmichael_bigfactors,19,Miller-Rabin,COMPOSITE,25,44,8,17,25,rounds,1,20,88172645463325252
+carmichael_bigfactors,19,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael_bigfactors,19,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael_bigfactors,26,Trial division,COMPOSITE,0,105,0,0,105,divisions,105,20,88172645463325252
+carmichael_bigfactors,26,Fermat,PROBABLY_PRIME,740,1767,240,500,1047,rounds,20,20,88172645463325252
+carmichael_bigfactors,26,Solovay-Strassen,COMPOSITE,36,101,12,24,66,rounds,1,20,88172645463325252
+carmichael_bigfactors,26,Miller-Rabin,COMPOSITE,36,69,12,24,35,rounds,1,20,88172645463325252
+carmichael_bigfactors,26,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael_bigfactors,26,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+carmichael_bigfactors,27,Trial division,COMPOSITE,0,135,0,0,135,divisions,135,20,88172645463325252
+carmichael_bigfactors,27,Fermat,PROBABLY_PRIME,740,1781,220,520,1061,rounds,20,20,88172645463325252
+carmichael_bigfactors,27,Solovay-Strassen,COMPOSITE,36,98,11,25,63,rounds,1,20,88172645463325252
+carmichael_bigfactors,27,Miller-Rabin,COMPOSITE,36,69,11,25,35,rounds,1,20,88172645463325252
+carmichael_bigfactors,27,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+carmichael_bigfactors,27,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+strong_psp2,11,Trial division,COMPOSITE,0,11,0,0,11,divisions,11,20,88172645463325252
+strong_psp2,11,Fermat,COMPOSITE,20,25,10,10,25,rounds,1,20,88172645463325252
+strong_psp2,11,Solovay-Strassen,COMPOSITE,19,29,10,9,29,rounds,1,20,88172645463325252
+strong_psp2,11,Miller-Rabin,COMPOSITE,19,19,10,9,19,rounds,1,20,88172645463325252
+strong_psp2,11,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+strong_psp2,11,Lucas-Lehmer,COMPOSITE,9,0,0,0,0,LL_iters,9,20,88172645463325252
+strong_psp2,12,Trial division,COMPOSITE,0,14,0,0,14,divisions,14,20,88172645463325252
+strong_psp2,12,Fermat,COMPOSITE,17,22,6,11,22,rounds,1,20,88172645463325252
+strong_psp2,12,Solovay-Strassen,COMPOSITE,16,25,6,10,25,rounds,1,20,88172645463325252
+strong_psp2,12,Miller-Rabin,COMPOSITE,16,16,6,10,16,rounds,1,20,88172645463325252
+strong_psp2,12,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+strong_psp2,12,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+strong_psp2,12,Trial division,COMPOSITE,0,18,0,0,18,divisions,18,20,88172645463325252
+strong_psp2,12,Fermat,COMPOSITE,51,72,18,33,72,rounds,3,20,88172645463325252
+strong_psp2,12,Solovay-Strassen,COMPOSITE,32,61,12,20,61,rounds,2,20,88172645463325252
+strong_psp2,12,Miller-Rabin,COMPOSITE,27,24,12,15,24,rounds,2,20,88172645463325252
+strong_psp2,12,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+strong_psp2,12,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+strong_psp2,13,Trial division,COMPOSITE,0,15,0,0,15,divisions,15,20,88172645463325252
+strong_psp2,13,Fermat,COMPOSITE,16,27,4,12,27,rounds,1,20,88172645463325252
+strong_psp2,13,Solovay-Strassen,COMPOSITE,15,32,4,11,32,rounds,1,20,88172645463325252
+strong_psp2,13,Miller-Rabin,COMPOSITE,15,15,4,11,15,rounds,1,20,88172645463325252
+strong_psp2,13,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+strong_psp2,13,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+strong_psp2,14,Trial division,COMPOSITE,0,26,0,0,26,divisions,26,20,88172645463325252
+strong_psp2,14,Fermat,COMPOSITE,30,44,4,26,44,rounds,2,20,88172645463325252
+strong_psp2,14,Solovay-Strassen,COMPOSITE,28,52,4,24,52,rounds,2,20,88172645463325252
+strong_psp2,14,Miller-Rabin,COMPOSITE,23,23,4,19,23,rounds,2,20,88172645463325252
+strong_psp2,14,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+strong_psp2,14,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252
+strong_psp_2357,32,Trial division,COMPOSITE,0,75,0,0,75,divisions,75,20,88172645463325252
+strong_psp_2357,32,Fermat,PROBABLY_PRIME,1020,2396,400,620,1396,rounds,20,20,88172645463325252
+strong_psp_2357,32,Solovay-Strassen,COMPOSITE,50,133,20,30,84,rounds,1,20,88172645463325252
+strong_psp_2357,32,Miller-Rabin,COMPOSITE,50,98,20,30,49,rounds,1,20,88172645463325252
+strong_psp_2357,32,AKS,SKIPPED,0,0,0,0,0,poly_mults,0,20,88172645463325252
+strong_psp_2357,32,Lucas-Lehmer,NA,0,0,0,0,0,LL_iters,0,20,88172645463325252

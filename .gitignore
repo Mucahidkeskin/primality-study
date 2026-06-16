@@ -1,0 +1,28 @@
+# This repo is the code+data artifact; the paper (TeX/PDF) lives separately.
+*.pdf
+*.tex
+
+# Build artifacts (rebuild: gcc primality.c -O2 -o primality.exe)
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+
+# Generated bundles
+*.zip
+
+# OS cruft
+Thumbs.db
+.DS_Store
